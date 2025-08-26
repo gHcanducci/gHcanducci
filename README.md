@@ -44,8 +44,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=gHcanducci&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gHcanducci&layout=compact&theme=tokyonight)
 
 ---
 
