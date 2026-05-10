@@ -15,7 +15,7 @@
 ### 💡 Sobre o que posso falar/ensinar
 - Lógica de Programação  
 - C# e .NET  
-- HTML e CSS (Básico)  
+- HTML, CSS e JavaScript (Básico)  
 - SQL DataBase  
 
 ---
