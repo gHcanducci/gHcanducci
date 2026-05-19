@@ -84,11 +84,14 @@ Conceito SaaS para organização de prompts e workflows de IA (Projeto Integrado
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gHcanducci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gHcanducci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gHcanducci&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gHcanducci&layout=compact&theme=tokyonight&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gHcanducci&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gHcanducci&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
