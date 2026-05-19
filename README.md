@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Guilherme Canducci!
 
-🎓 Estudante de **Sistemas de Informação** na Toledo Prudente | Futuro **Desenvolvedor Back-End**  
+🎓 Estudante de **Sistemas de Informação** na Toledo Prudente | Futuro **Desenvolvedor**  
 🚀 Desenvolvendo projetos práticos e buscando oportunidades de estágio em Presidente Prudente/SP
 
 ---
