@@ -52,6 +52,8 @@ Conceito SaaS para organização de prompts e workflows de IA (Projeto Integrado
 
 ## 💡 Competências Técnicas
 
+<div align="center">
+
 ### Linguagens
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -80,17 +82,18 @@ Conceito SaaS para organização de prompts e workflows de IA (Projeto Integrado
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gHcanducci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gHcanducci&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
+
+## 📊 Atividade no GitHub
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gHcanducci&theme=tokyonight" alt="GitHub Streak"/>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gHcanducci&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gHcanducci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
 </div>
 
 ---
@@ -120,9 +123,13 @@ Habilidades que aplico também no meu crescimento como desenvolvedor.
 
 ## 🌐 Contato
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guicanducci08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-canducci)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermecanducci)
+
+</div>
 
 ---
 
