@@ -92,7 +92,7 @@ Conceito SaaS para organização de prompts e workflows de IA (Projeto Integrado
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gHcanducci&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gHcanducci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=gHcanducci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
