@@ -3,7 +3,7 @@
 # Olá, eu sou o Guilherme Canducci 👋
 
 <a href="https://github.com/gHcanducci">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5C2D91&center=true&vCenter=true&width=620&lines=Desenvolvedor+Back-End+.NET;C%23+%7C+ASP.NET+%7C+SQL+Server;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Disciplina+no+treino%2C+disciplina+no+c%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5C2D91&center=true&vCenter=true&width=620&lines=Desenvolvedor+Back-End+.NET;C%23+%7C+ASP.NET+%7C+SQL+Server;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Disciplina+no+c%C3%B3digo" alt="Typing SVG" />
 </a>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
